@@ -1,6 +1,6 @@
 ## George Barrett
 
-I am a dedicated and determined junior full stack developer that specialises in javascript and ruby (and a bit of python). I'm looking for a software development role where I can continually learn whilst contributing my existing skillset. 
+I am a dedicated and determined junior full stack developer that specialises in javascript and ruby (and a bit of python). I bring a solid foundation in the font end and object orientated programming and am familiar with numerous libraries and frameworks. I utilise agile methods, use git meticulously and ensure that clear and useful commit messages are generated. I have a good understanding of the architecture of web apps and how pieces of software link together  
 
 Upon deciding to plunge into the world of coding in February 2022, I have been completely captivated by its nature and dedicated to improving. By June 2022 I had completed a front end development bootcamp. After this, I continued to teach myself until I found a position at a start-up that wanted to make finding tutors easy using a full stack web-app. This postion unfortunately ended in December 2022 due to the senior developer deciding to leave. From the start of 2023 I continued improving my skills independetly until February, when I earnt a position at one of the most selective and prestigious software development bootcamps, Makers. 
 
