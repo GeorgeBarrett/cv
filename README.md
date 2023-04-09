@@ -4,7 +4,7 @@ I am a dedicated and determined junior full stack developer that specialises in 
 
 Upon deciding to plunge into the world of coding in February 2022, I have been completely captivated by its nature and dedicated to improving. By June 2022 I had completed a front end development bootcamp. After this, I continued to teach myself until I found a position at a start-up that wanted to make finding tutors easy using a full stack web-app. This postion unfortunately ended in December 2022 due to the senior developer deciding to leave. From the start of 2023 I continued improving my skills independetly until February, when I earnt a position at one of the most selective and prestigious software development bootcamps, Makers. 
 
-The most attractive element of tech for me is the oppotunity to continually improve. I find coding itself, problem-solving, logical thinking, team-working and using agile methods deeply rewarding and fulfilling, but continual improvement takes the biscuit. I haven't reached my potential with regards to a career, and tech offers me the opprunity to do something that I love, whilst seeing how far I can go. This for me is truly exciting.   
+The most attractive element of tech for me is the oppotunity to continually improve. I find coding itself, problem-solving, logical thinking, team-working and using agile methods deeply rewarding and fulfilling, but continual improvement takes the biscuit. I haven't reached my potential with regards to a career, and tech offers me the opporunity to do something that I love, whilst seeing how far I can go. This for me is truly exciting.   
 
 
 ## Projects
@@ -23,7 +23,6 @@ Skills:
 - using react/next.js, tailwind, express, node.js, postresql
 - hosting meetings
 - managing client expectations
-- working from a ticketing system and using my own branch
 - working as a part of a team of developers and using git to collaborate
 - using a ticketing system
   
